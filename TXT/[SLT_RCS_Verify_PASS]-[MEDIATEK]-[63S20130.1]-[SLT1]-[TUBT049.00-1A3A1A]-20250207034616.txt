@@ -1,0 +1,24 @@
+*******************************************************
+ 
+*******************************************************
+CUST NAME   : MEDIATEK
+CUST LOT NO : TUBT049.00-1A3A1A
+SPIL LOT ID : 63S20130.1
+STAGE       : SLT1
+DEVICE      : MT8792Z/NAZAHJC-H
+PROGRAM     : MT8792_20240915_SLT_V2.7.0_NV.MAIN_TTR_V1.RAR
+USER ID     : 227040
+FTP TIME    : 2025/02/07 03:46:01 ~ 2025/02/07 03:46:02
+DATE        : 2025/02/07 03:46:16
+RCS EXENO   : 2
+RCS VERSION : V3.4.3(2023/06/19)
+--------------------------------------------------------------------------------
+Check Report Qty  : PASS
+Check Bin Qty     : PASS
+Check AMD Fab Lot : PASS
+--------------------------------------------------------------------------------
+BIN1      QTY : 7512
+BIN2      QTY : 14
+BIN3      QTY : 0
+BIN4      QTY : 7
+BIN5      QTY : 0

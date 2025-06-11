@@ -1,0 +1,24 @@
+*******************************************************
+ 
+*******************************************************
+CUST NAME   : MEDIATEK
+CUST LOT NO : TUBP454.00-1B1A1A
+SPIL LOT ID : 63S20794.1
+STAGE       : SLT1
+DEVICE      : MT6897Z/ZAHJC-H
+PROGRAM     : MT6897_20241209_163255_MAIN_DISPSYS_2PATCH_V0.0.0_MAIN_ATS.ZIP
+USER ID     : 227040
+FTP TIME    : 2025/02/08 03:51:38 ~ 2025/02/08 03:51:38
+DATE        : 2025/02/08 03:51:44
+RCS EXENO   : 1
+RCS VERSION : V3.4.3(2023/06/19)
+--------------------------------------------------------------------------------
+Check Report Qty  : PASS
+Check Bin Qty     : PASS
+Check AMD Fab Lot : PASS
+--------------------------------------------------------------------------------
+BIN1      QTY : 573
+BIN2      QTY : 2
+BIN3      QTY : 0
+BIN4      QTY : 0
+BIN5      QTY : 0
